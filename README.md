@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <br />
   <a href="https://nodejs.org">
     <picture>
